@@ -291,3 +291,9 @@ Fork edip geliştirebilirsiniz.
 MIT License
 
 Ücretsiz kullanılabilir ve değiştirilebilir.
+
+---
+
+# Proje
+
+Doğuş ŞEKERCİ
