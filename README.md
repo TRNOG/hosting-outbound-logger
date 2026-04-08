@@ -1,5 +1,12 @@
 # eBPF Outbound Logger for Hosting Servers
 
+<img width="300" height="72" alt="image" src="https://github.com/user-attachments/assets/a555f200-ec2a-47b1-adb1-84a33e6445b8" />
+
+TRNOG topluluğu için geliştirilmiştir.
+
+**Geliştiren:** Doğuş ŞEKERCİ  
+**Katkılar:** -
+
 Linux sunucularda **hangi process hangi IP’ye bağlantı açıyor** bilgisini tespit eden **eBPF tabanlı outbound connection logger**.
 
 Hosting firmaları, SIEM projeleri, SOC ekipleri ve güvenlik analizleri için tasarlanmıştır.
